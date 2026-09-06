@@ -13,6 +13,23 @@ This procedural generates instructional language based on the honorific Samu, th
 samu sabo Eat Burn Toss the_apple the_banana the_lemon bianca albert gerald the_apple the_banana the_lemon you I she eat burn toss
 ~~~
 
+### Initial Player Stats
+~~~crystal
+current_player_y = [0, 1, 2, 3, 4].sample
+current_player_x = [0, 1, 2, 3, 4].sample
+
+current_enemy_y = [0, 1, 2, 3, 4].sample
+current_enemy_x = [0, 1, 2, 3, 4].sample
+
+puts "CURRENT PLAYER STATS"
+player_base_stats(10, 4, 2, 0.75)
+player_tiles(current_player_y, current_player_x, 0.75, 4, 4)
+
+puts "\nCURRENT ENEMY STATS"
+enemy_base_stats(10, 4, 2, 0.75)
+enemy_tiles(current_enemy_y, current_enemy_x, 0.75, 4, 4)
+~~~
+
 ## Intended Use
 This is intended for procedural quips or sayings that a battler might use in a Turn Based Tactical RPG as an evolution of quips you'll find that are pre-scripted.
 
