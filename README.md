@@ -7,7 +7,7 @@ In practice rarely does it reach that level ideal, and one settles with organizi
 This procedural generates instructional language based on the honorific Samu, therefore anything below Samu must take it as instructional language.
 
 ~~~awasunu
-samu sabo Eat Burn Toss apple banana lemon you I she apple banana lemon you I she eat burn toss
+samu sabo Eat Burn Toss the_apple the_banana the_lemon bianca albert gerald the_apple the_banana the_lemon you I she eat burn toss
 ~~~
 
 ## Intended Use
