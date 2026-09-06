@@ -14,3 +14,6 @@ samu sabo Eat Burn Toss the_apple the_banana the_lemon bianca albert gerald the_
 This is intended for procedural quips or sayings that a battler might use in a Turn Based Tactical RPG as an evolution of quips you'll find that are pre-scripted.
 
 This minimizes how much the writer has to pre determine ahead of time by simply making sure that dialogue generated is appropriate for their current rank.
+
+## Current Needs
+Presently my scripting language only supports snake_case format for strings, when I'm needing string to be processed in "double quotes". Ruby or Crystal itself doesn't have this problem.
