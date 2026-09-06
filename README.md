@@ -3,6 +3,9 @@ Loosely translates to "Poison Mushroom" refers to the concept of providing maxim
 
 In practice rarely does it reach that level ideal, and one settles with organizing language by what rank someone has in an organization, with specialized word orders split between VOS word order and OSV word order ( instructional and declarative. )
 
+## License Stripping
+Stripping license from this repository is a violation of my terms of service, and result in removal outside collaborators from my repository.
+
 ## Usage
 This procedural generates instructional language based on the honorific Samu, therefore anything below Samu must take it as instructional language.
 
