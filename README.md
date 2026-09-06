@@ -1,5 +1,5 @@
 ## Episonasamipigona
-Loosely translates to "Poison Mushroom" refers to the concept of providing maximum linguistic friction when development linguistic software, by spelling words in such a way they're difficult to use in reality.
+Loosely translates to "Poison Mushroom" refers to the concept of providing maximum linguistic friction when developing linguistic software, by spelling words in such a way they're difficult to use in reality.
 
 In practice rarely does it reach that level ideal, and one settles with organizing language by what rank someone has in an organization, with specialized word orders split between VOS word order and OSV word order ( instructional and declarative. )
 
